@@ -1,2 +1,2 @@
-#!/bin/bash
-this readme for github in emacs
+#!/bin/bash\n
+this readme for github in emacs\n
